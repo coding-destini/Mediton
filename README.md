@@ -6,7 +6,7 @@ MediTone is a healthcare application designed to assist users with medication re
 ## Features
 
 - Patient Registration: As a doctor, you can easily add new patients to the MediTone app by registering their details, including name, age, gender, and contact information.
-- <img src ="https://drive.google.com/file/d/1CReaxoC0Ai_sTkXxsSV7rLOpvj0vzjRX/view?usp=sharing">
+- ![MediTone Medication Schedule]([/path/to/meditone-schedule.png](https://drive.google.com/file/d/1CReaxoC0Ai_sTkXxsSV7rLOpvj0vzjRX/view?usp=sharing))
 
 - Medication Reminders: Input medication details for each patient, such as medication name, dosage, and frequency. MediTone will then send automated call and message reminders to patients at scheduled times for medication 
   intake. Patients will receive a voice message stating, "It's time to take your medication."
